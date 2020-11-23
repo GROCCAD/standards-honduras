@@ -1,0 +1,21 @@
+name: Materias
+uri: https://
+type: ControlledVocabulary
+kind: educationalSubjects
+jurisdiction: Honduras
+term:
+  - term: ES
+    label: Esapñol
+    language: spa
+  - term: MA
+    label: Matemáticas
+    language: spa
+  - term: CCSS
+    label: Ciencias Sociales
+    language: spa
+  - term: CCNN
+    label: Ciencias Naturales
+    language: spa
+  - term: EN
+    label: Inglés
+    language: spa

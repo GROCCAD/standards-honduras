@@ -1,8 +1,8 @@
 Source documents
 ================
 
-The Honduras educational standards (Estándares Educativos Nacionales) can
-be downloaded as PDF documents from the following sites:
+The Honduras educational standards (Estándares Educativos Nacionales) are published
+by the Secretaría de Educación de Honduras and can be downloaded as PDF documents from the following sites:
 
  - https://www.se.gob.hn/prebasica_descargas/
  - https://www.se.gob.hn/basica_descargas/

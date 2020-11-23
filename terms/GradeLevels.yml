@@ -1,0 +1,30 @@
+name: Grados 
+uri: https://
+type: ControlledVocabulary
+kind: gradeLevels
+jurisdiction: Honduras
+terms:
+  - term: PB
+    label: Prebásica
+  - term: 1
+    label: Primer grado
+  - term: 2
+    label: Segundo grado
+  - term: 3
+    label: Tercer grado
+  - term: 4
+    label: Cuarto grado
+  - term: 5
+    label: Quinto grado
+  - term: 6
+    label: Sexto grado
+  - term: 7
+    label: Séptimo grado
+  - term: 8
+    label: Octavo grado
+  - term: 9
+    label: Noveno grado
+  - term: 10
+    label: Décimo grado
+  - term: 11
+    label: Undécimo grado
