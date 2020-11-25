@@ -1,21 +1,18 @@
-name: Materias
-uri: https://
 type: ControlledVocabulary
-kind: educationalSubjects
 jurisdiction: Honduras
+name: Areas
+uri: https://qv.link/terms/Honduras/Areas
+country: hn
+language: es
+description: Controlled vocabulary for describing the educational subjects in the Honduras educaitonal system.
 term:
   - term: ES
     label: Esapñol
-    language: spa
   - term: MA
     label: Matemáticas
-    language: spa
   - term: CCSS
     label: Ciencias Sociales
-    language: spa
   - term: CCNN
     label: Ciencias Naturales
-    language: spa
   - term: EN
     label: Inglés
-    language: spa

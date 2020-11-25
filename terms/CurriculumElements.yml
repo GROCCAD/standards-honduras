@@ -1,0 +1,22 @@
+type: ControlledVocabulary
+jurisdiction: Honduras
+name: GradeLevels
+uri: https://qv.link/terms/Honduras/CurriculumElements
+country: hn
+language: es
+description: >
+  Controlled vocabulary for for describing the different elements within the
+  curriculum standards for the educaitonal system in Honduras.
+source: https://www.se.gob.hn/media/files/basica/Estandares_Espanol_y_Matematicas_de_1_a_6_grado_5oNVMYN.pdf#page=5
+terms:
+  - term: grado
+    label: Grado
+    range: https://qv.link/terms/Honduras/Grados
+  - term: area
+    label: Área
+  - term: bloque
+    label: Bloque
+  - term: componente
+    label: Componente
+  - term: estandare
+    label: Estándare

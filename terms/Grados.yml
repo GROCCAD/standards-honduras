@@ -1,8 +1,10 @@
-name: Grados 
-uri: https://
 type: ControlledVocabulary
-kind: gradeLevels
 jurisdiction: Honduras
+name: Grados
+uri: https://qv.link/terms/Honduras/Grados
+country: hn
+language: es
+description: Controlled vocabulary for describing the grade levels in the Honduras educaitonal system.
 terms:
   - term: PB
     label: Prebásica
