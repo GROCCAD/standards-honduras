@@ -2,7 +2,7 @@ type: ControlledVocabulary
 jurisdiction: Honduras
 name: GradeLevels
 uri: https://qv.link/terms/Honduras/CurriculumElements
-country: hn
+country: HN
 language: es
 description: >
   Controlled vocabulary for for describing the different elements within the

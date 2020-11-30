@@ -2,7 +2,7 @@ type: ControlledVocabulary
 jurisdiction: Honduras
 name: Areas
 uri: https://qv.link/terms/Honduras/Areas
-country: hn
+country: HN
 language: es
 description: Controlled vocabulary for describing the educational subjects in the Honduras educaitonal system.
 term:
