@@ -4,8 +4,9 @@ name: Areas
 uri: https://qv.link/terms/Honduras/Areas
 country: HN
 language: es
+label: Áreas
 description: Controlled vocabulary for describing the educational subjects in the Honduras educaitonal system.
-term:
+terms:
   - term: ES
     label: Esapñol
   - term: MA

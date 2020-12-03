@@ -4,6 +4,7 @@ name: Grados
 uri: https://qv.link/terms/Honduras/Grados
 country: HN
 language: es
+label: Grados
 description: Controlled vocabulary for describing the grade levels in the Honduras educaitonal system.
 terms:
   - term: PB

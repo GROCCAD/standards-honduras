@@ -4,6 +4,7 @@ name: GradeLevels
 uri: https://qv.link/terms/Honduras/CurriculumElements
 country: HN
 language: es
+label: Honduras Curriculum Elements
 description: >
   Controlled vocabulary for for describing the different elements within the
   curriculum standards for the educaitonal system in Honduras.
