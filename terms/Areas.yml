@@ -1,4 +1,5 @@
 type: ControlledVocabulary
+kind: subjects
 jurisdiction: Honduras
 name: Areas
 uri: https://qv.link/terms/Honduras/Areas

@@ -1,4 +1,5 @@
 type: ControlledVocabulary
+kind: curriculum_elements
 jurisdiction: Honduras
 name: GradeLevels
 uri: https://qv.link/terms/Honduras/CurriculumElements

@@ -1,4 +1,5 @@
 type: ControlledVocabulary
+kind: education_levels
 jurisdiction: Honduras
 name: Grados
 uri: https://qv.link/terms/Honduras/Grados
