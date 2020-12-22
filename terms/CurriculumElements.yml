@@ -8,7 +8,7 @@ language: es
 label: Honduras Curriculum Elements
 description: >
   Controlled vocabulary for for describing the different elements within the
-  curriculum standards for the educaitonal system in Honduras.
+  curriculum standards for the educational system in Honduras.
 source: https://www.se.gob.hn/media/files/basica/Estandares_Espanol_y_Matematicas_de_1_a_6_grado_5oNVMYN.pdf#page=5
 terms:
   - term: grado

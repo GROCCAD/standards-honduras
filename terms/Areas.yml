@@ -6,7 +6,7 @@ uri: https://rocdata.global/terms/Honduras/Areas
 country: HN
 language: es
 label: Áreas
-description: Controlled vocabulary for describing the educational subjects in the Honduras educaitonal system.
+description: Controlled vocabulary for describing the educational subjects in the Honduras educational system.
 terms:
   - term: ES
     label: Esapñol
