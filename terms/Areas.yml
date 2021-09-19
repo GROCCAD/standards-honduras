@@ -2,7 +2,7 @@ type: ControlledVocabulary
 kind: subjects
 jurisdiction: Honduras
 name: Areas
-uri: https://rocdata.global/terms/Honduras/Areas
+uri: https://rocdata.global/Honduras/terms/Areas
 country: HN
 language: es
 label: Áreas

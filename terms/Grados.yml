@@ -2,7 +2,7 @@ type: ControlledVocabulary
 kind: education_levels
 jurisdiction: Honduras
 name: Grados
-uri: https://rocdata.global/terms/Honduras/Grados
+uri: https://rocdata.global/Honduras/terms/Grados
 country: HN
 language: es
 label: Grados

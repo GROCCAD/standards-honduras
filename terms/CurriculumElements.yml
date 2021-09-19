@@ -2,7 +2,7 @@ type: ControlledVocabulary
 kind: curriculum_elements
 jurisdiction: Honduras
 name: GradeLevels
-uri: https://rocdata.global/terms/Honduras/CurriculumElements
+uri: https://rocdata.global/Honduras/terms/CurriculumElements
 country: HN
 language: es
 label: Honduras Curriculum Elements
@@ -13,7 +13,7 @@ source: https://www.se.gob.hn/media/files/basica/Estandares_Espanol_y_Matematica
 terms:
   - term: grado
     label: Grado
-    range: https://rocdata.global/terms/Honduras/Grados
+    range: https://rocdata.global/Honduras/terms/Grados
   - term: area
     label: Área
   - term: bloque
